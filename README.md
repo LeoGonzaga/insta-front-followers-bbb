@@ -68,6 +68,6 @@ Released in 2020 :closed_book: License
 
 ---
 
-Made with love by [Rodrigo Duarte](https://github.com/rodrigodsluz) 🚀.
+Made with love by [Léo Gonzaga](https://github.com/LeoGonzaga) 🚀.
 This project is under the [MIT license](./LICENSE).
 
