@@ -3,7 +3,7 @@
    <a href="https://www.linkedin.com/in/leogonzaga/">
       <img alt="Léo Gonzaga" src="https://img.shields.io/badge/-Leo Gonzaga-FB250?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigodsluz/proffy?color=FB250">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LeoGonzaga/insta-front-followers-bbb?color=FB250">
 
   <a href="https://github.com/leoGonzaga/insta-front-followers-bbb/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leoGonzaga/insta-front-followers-bbb?color=FB250">
